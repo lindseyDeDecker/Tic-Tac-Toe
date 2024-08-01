@@ -1,0 +1,16 @@
+C:\Users\kydec\source\repos\CST-150 TicTacToe\bin\Debug\net7.0-windows\CST-150 TicTacToe.exe
+C:\Users\kydec\source\repos\CST-150 TicTacToe\bin\Debug\net7.0-windows\CST-150 TicTacToe.deps.json
+C:\Users\kydec\source\repos\CST-150 TicTacToe\bin\Debug\net7.0-windows\CST-150 TicTacToe.runtimeconfig.json
+C:\Users\kydec\source\repos\CST-150 TicTacToe\bin\Debug\net7.0-windows\CST-150 TicTacToe.dll
+C:\Users\kydec\source\repos\CST-150 TicTacToe\bin\Debug\net7.0-windows\CST-150 TicTacToe.pdb
+C:\Users\kydec\source\repos\CST-150 TicTacToe\obj\Debug\net7.0-windows\CST_150_TicTacToe.TicTacToe.resources
+C:\Users\kydec\source\repos\CST-150 TicTacToe\obj\Debug\net7.0-windows\CST-150 TicTacToe.csproj.GenerateResource.cache
+C:\Users\kydec\source\repos\CST-150 TicTacToe\obj\Debug\net7.0-windows\CST-150 TicTacToe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kydec\source\repos\CST-150 TicTacToe\obj\Debug\net7.0-windows\CST-150 TicTacToe.AssemblyInfoInputs.cache
+C:\Users\kydec\source\repos\CST-150 TicTacToe\obj\Debug\net7.0-windows\CST-150 TicTacToe.AssemblyInfo.cs
+C:\Users\kydec\source\repos\CST-150 TicTacToe\obj\Debug\net7.0-windows\CST-150 TicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\kydec\source\repos\CST-150 TicTacToe\obj\Debug\net7.0-windows\CST-150 TicTacToe.dll
+C:\Users\kydec\source\repos\CST-150 TicTacToe\obj\Debug\net7.0-windows\refint\CST-150 TicTacToe.dll
+C:\Users\kydec\source\repos\CST-150 TicTacToe\obj\Debug\net7.0-windows\CST-150 TicTacToe.pdb
+C:\Users\kydec\source\repos\CST-150 TicTacToe\obj\Debug\net7.0-windows\CST-150 TicTacToe.genruntimeconfig.cache
+C:\Users\kydec\source\repos\CST-150 TicTacToe\obj\Debug\net7.0-windows\ref\CST-150 TicTacToe.dll
